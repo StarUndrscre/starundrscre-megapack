@@ -1,0 +1,213 @@
+{
+	"item.totem.use":
+		{"replace": true,
+		"sounds": 
+			[{"name": "item/totem/use_totem", "volume": 1, "pitch": 1}], 
+		"subtitle": "subtitles.item.totem.use"},
+	"ambience.cave":
+		{"replace": true,
+		"sounds":
+			[{"name": "ambient/cave/cave1", "volume": 2}, 
+			{"name": "ambient/cave/cave2", "volume": 2}, 
+			{"name": "ambient/cave/cave3", "volume": 2}, 
+			{"name": "ambient/cave/cave4", "volume": 2}, 
+			{"name": "ambient/cave/cave5", "volume": 2}, 
+			{"name": "ambient/cave/cave6", "volume": 2}, 
+			{"name": "ambient/cave/cave7", "volume": 2}, 
+			{"name": "ambient/cave/cave8", "volume": 2}, 
+			{"name": "ambient/cave/cave9", "volume": 2}, 
+			{"name": "ambient/cave/cave10", "volume": 2}, 
+			{"name": "ambient/cave/cave11", "volume": 2}, 
+			{"name": "ambient/cave/cave12", "volume": 2}, 
+			{"name": "ambient/cave/cave13", "volume": 2}, 
+			{"name": "ambient/cave/cave14", "volume": 2}, 
+			{"name": "ambient/cave/cave15", "volume": 2}, 
+			{"name": "ambient/cave/cave16", "volume": 2}, 
+			{"name": "ambient/cave/cave17", "volume": 2}, 
+			{"name": "ambient/cave/cave18", "volume": 2}, 
+			{"name": "ambient/cave/cave19", "volume": 2}],
+		"subtitle": "subtitles.ambient.cave"},
+	"item.spyglass.use": {
+		"replace": true,
+		"sounds": [{"name": "item/spyglass/use", "pitch": 1}],
+	"subtitle": "subtitles.item.spyglass.use"},
+	"entity.skeleton.ambient": {
+		"replace": true,
+		"sounds": [
+			{"name": "mob/skeleton/say1", "volume": 0.2},
+			{"name": "mob/skeleton/say2", "volume": 0.2},
+			{"name": "mob/skeleton/say3", "volume": 0.2}
+		],
+		"subtitle": "subtitles.entity.skeleton.ambient"},
+	"entity.skeleton.hurt": {
+		"replace": true,
+		"sounds": [
+			{"name": "mob/skeleton/hurt1", "volume": 0.2},
+			{"name": "mob/skeleton/hurt2", "volume": 0.2},
+			{"name": "mob/skeleton/hurt3", "volume": 0.2},
+			{"name": "mob/skeleton/hurt4", "volume": 0.2}
+		],
+		"subtitle": "subtitles.entity.skeleton.hurt"},
+	"entity.zombie.ambient": {
+		"replace": true,
+		"sounds": [
+			{"name": "mob/zombie/say1", "volume": 0.2},
+			{"name": "mob/zombie/say2", "volume": 0.2},
+			{"name": "mob/zombie/say3", "volume": 0.2}
+		],
+		"subtitle": "subtitles.entity.zombie.ambient"},
+	"entity.skeleton.death": {
+		"replace": true,
+		"sounds": [
+			{"name": "mob/skeleton/death", "volume": 0.2}
+		],
+		"subtitle": "subtitles.entity.skeleton.death"},
+	"entity.villager.ambient":
+		{"replace": true,
+		"sounds":
+			[{"name": "scientist/ambient/ambient1", "volume": 0.5},
+			{"name": "scientist/ambient/ambient2", "volume": 0.5},
+			{"name": "scientist/ambient/ambient3", "volume": 0.5},
+			{"name": "scientist/ambient/ambient4", "volume": 0.5},
+			{"name": "scientist/ambient/ambient5", "volume": 0.5},
+			{"name": "scientist/ambient/ambient6", "volume": 0.5},
+			{"name": "scientist/ambient/ambient7", "volume": 0.5},
+			{"name": "scientist/ambient/ambient8", "volume": 0.5},
+			{"name": "scientist/ambient/ambient9", "volume": 0.5}],
+		"subtitle": "subtitles.entity.villager.ambient"},
+	"entity.villager.death":
+		{"replace": true,
+		"sounds":
+			[{"name": "scientist/death/death1", "volume": 0.5},
+			{"name": "scientist/death/death2", "volume": 0.5},
+			{"name": "scientist/death/death3", "volume": 0.5},
+			{"name": "scientist/death/death4", "volume": 0.5},
+			{"name": "scientist/death/death5", "volume": 0.5}],
+		"subtitle": "subtitles.entity.villager.death"},
+	"entity.villager.hurt":
+		{"replace": true,
+		"sounds":
+			[{"name": "scientist/hit/hit1", "volume": 0.5},
+			{"name": "scientist/hit/hit2", "volume": 0.5},
+			{"name": "scientist/hit/hit3", "volume": 0.5},
+			{"name": "scientist/hit/hit4", "volume": 0.5},
+			{"name": "scientist/hit/hit5", "volume": 0.5},
+			{"name": "scientist/hit/hit6", "volume": 0.5},
+			{"name": "scientist/hit/hit7", "volume": 0.5},
+			{"name": "scientist/hit/hit8", "volume": 0.5},
+			{"name": "scientist/hit/hit9", "volume": 0.5},
+			{"name": "scientist/hit/hit10", "volume": 0.5}],
+		"subtitle": "subtitles.entity.villager.hurt"},
+	"entity.villager.no":
+		{"replace": true,
+		"sounds":
+			[{"name": "scientist/no/no1", "volume": 0.5},
+			{"name": "scientist/no/no2", "volume": 0.5},
+			{"name": "scientist/no/no3", "volume": 0.5},
+			{"name": "scientist/no/no4", "volume": 0.5}],
+		"subtitle": "subtitles.entity.villager.no"},
+	"entity.villager.yes":
+		{"replace": true,
+		"sounds":
+			[{"name": "scientist/yes/yes1", "volume": 0.5},
+			{"name": "scientist/yes/yes2", "volume": 0.5},
+			{"name": "scientist/yes/yes3", "volume": 0.5}],
+		"subtitle": "subtitles.entity.villager.yes"},
+	"entity.villager.trade":
+		{"replace": true,
+		"sounds":
+			[{"name": "scientist/haggle", "volume": 0.5}],
+		"subtitle": "subtitles.entity.villager.trade"},
+	"entity.villager.celebrate":
+		{"replace": true,
+		"sounds":
+			[{"name": "scientist/yes/yes1", "volume": 0.5},
+			{"name": "scientist/yes/yes2", "volume": 0.5},
+			{"name": "scientist/yes/yes3", "volume": 0.5}],
+		"subtitle": "subtitles.entity.villager.celebrate"},
+	"entity.generic.eat": {
+		"replace": true,
+		"sounds": [
+			{"name": "random/eat1", "volume": 0.5},
+			{"name": "random/eat2", "volume": 0.5},
+			{"name": "random/eat3", "volume": 0.5},
+			{"name": "random/eat4", "volume": 0.5},
+			{"name": "random/eat5", "volume": 0.5}
+		],
+		"subtitle": "subtitles.entity.generic.eat"},
+	"entity.arrow.hit":
+	{"replace": true,
+	 "sounds":[
+		 	{"name": "gun/impact1", "volume": 0.2},
+			{"name": "gun/impact2", "volume": 0.2},
+			{"name": "gun/impact3", "volume": 0.2}],
+	 "subtitle": "subtitles.entity.arrow.hit"},
+	"entity.arrow.hit_player":
+	{"replace": true,
+	 "sounds":[
+		 	{"name": "gun/hit", "volume": 0.5}],
+	 "subtitle": "subtitles.entity.arrow.hit_player"},
+	"entity.arrow.shoot":
+	{"replace": true,
+	 "sounds":[
+		 	{"name": "gun/shoot", "volume": 0.5, "pitch": 1}],
+	 "subtitle": "subtitles.entity.arrow.shoot"},
+	"entity.skeleton.shoot":
+	{"replace": true,
+	 "sounds":[
+		 	{"name": "gun/shoot", "volume": 0.5, "pitch": 1}],
+	 "subtitle": "subtitles.entity.skeleton.shoot"},
+	"entity.player.death": {
+		"replace": true,
+		"sounds": [{"name": "hev/death1", "volume": 0.5, "pitch": 1},
+				  {"name": "hev/death2", "volume": 0.5, "pitch": 1}],
+	"subtitle": "subtitles.entity.player.death"},
+	"entity.player.hurt": {
+		"replace": true,
+		"sounds": [{"name": "hev/hit1"},
+				  {"name": "hev/hit2"},
+				  {"name": "hev/hit3"},
+				  {"name": "hev/hit4"},
+				  {"name": "hev/hit5"}],
+	"subtitle": "subtitles.entity.player.hurt"},
+	"entity.player.hurt_drown": {
+		"replace": true,
+		"sounds": [{"name": "hev/hit1"},
+				  {"name": "hev/hit2"},
+				  {"name": "hev/hit3"},
+				  {"name": "hev/hit4"},
+				  {"name": "hev/hit5"}],
+	"subtitle": "subtitles.entity.player.hurt_drown"},
+	"entity.player.hurt_freeze": {
+		"replace": true,
+		"sounds": [{"name": "hev/hit1"},
+				  {"name": "hev/hit2"},
+				  {"name": "hev/hit3"},
+				  {"name": "hev/hit4"},
+				  {"name": "hev/hit5"}],
+	"subtitle": "subtitles.entity.player.hurt_drown"},
+	"entity.player.hurt_on_fire": {
+		"replace": true,
+		"sounds": [{"name": "hev/hit1"},
+				  {"name": "hev/hit2"},
+				  {"name": "hev/hit3"},
+				  {"name": "hev/hit4"},
+				  {"name": "hev/hit5"}],
+	"subtitle": "subtitles.entity.player.hurt_on_fire"},
+	"entity.player.hurt_sweet_berry_bush": {
+		"replace": true,
+		"sounds": [{"name": "hev/hit1"},
+				  {"name": "hev/hit2"},
+				  {"name": "hev/hit3"},
+				  {"name": "hev/hit4"},
+				  {"name": "hev/hit5"}],
+	"subtitle": "subtitles.entity.player.hurt_sweet_berry_bush"},
+	"entity.player.big_fall": {
+		"replace": true,
+		"sounds": [{"name": "hev/fall_big", "volume": 0.5}],
+	"subtitle": "subtitles.entity.generic.big_fall"},
+	"entity.player.small_fall": {
+		"replace": true,
+		"sounds": [{"name": "hev/fall_big", "volume": 0.5}],
+	"subtitle": "subtitles.entity.generic.small_fall"}
+}
