@@ -1,8 +1,9 @@
 # StarUndrscre's Megapack
 ### some packs i compiled together that i think are funny
+**also contains some in-jokes and stuff**
 
 ## Credits
-Breakout Disc - StarUndrscre (me)<br>
+Breakout and Don't Mine At Night Disc - StarUndrscre (me)<br>
 Paintings - SolarSimonDM on PlanetMinecraft.com (https://www.planetminecraft.com/texture-pack/solarsimon-s-snazzy-paintings-java/)<br>
 Sans Texture - Systematicz0 on PlanetMinecraft.com (https://www.planetminecraft.com/texture-pack/sans-in-minecraft/)<br>
 Sans Sounds - yahiamice (https://www.youtube.com/watch?v=DULJPtZCcVA)<br>
@@ -27,3 +28,4 @@ Comically Large Tools Names - PeakedComedy on PlanetMinecraft.com<br>
 \* Gunshot, Scientists, Zombies, player hurt and death sounds<br>
 \** other crowbar textures (not including the iron crowbar) were made by me<br>
 
+*Please tell me if I'm missing any credits, I put random stuff in my packs so it's hard for me to keep track of what I used*

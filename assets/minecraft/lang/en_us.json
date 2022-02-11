@@ -118,5 +118,14 @@
   "subtitles.item.trident.riptide": "Fork zooms",
   "subtitles.item.trident.throw": "Fork clangs",
   "subtitles.item.trident.thunder": "Fork thunder cracks",
-  "advancements.adventure.throw_trident.description": "Throw a fork at something.\nNote: Throwing away your only weapon is not a good idea."
+  "advancements.adventure.throw_trident.description": "Throw a fork at something.\nNote: Throwing away your only weapon is not a good idea.",
+  "item.minecraft.iron_ingot": "Chegg Steel",
+  "death.fell.accident.water": "%s became stupid and died",
+  "item.minecraft.baked_potato": "Hot Chip",
+  "item.minecraft.leather_helmet": "Chegg Hat",
+  "item.minecraft.leather_chestplate": "Chegg Shirt",
+  "item.minecraft.leather_leggings": "Chegg Pants",
+  "item.minecraft.leather_boots": "Chegg Shoes",
+  "item.minecraft.music_disc_11": "Music Disc",
+  "item.minecraft.music_disc_11.desc": "ShadyVox - Don't Mine At Night"
 }

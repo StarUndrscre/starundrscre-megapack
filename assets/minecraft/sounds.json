@@ -66,8 +66,6 @@
 		{"replace": true,
 		"sounds":
 			[{"name": "scientist/ambient/ambient1", "volume": 0.5},
-			{"name": "scientist/ambient/ambient2", "volume": 0.5},
-			{"name": "scientist/ambient/ambient3", "volume": 0.5},
 			{"name": "scientist/ambient/ambient4", "volume": 0.5},
 			{"name": "scientist/ambient/ambient5", "volume": 0.5},
 			{"name": "scientist/ambient/ambient6", "volume": 0.5},
