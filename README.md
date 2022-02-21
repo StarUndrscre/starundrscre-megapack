@@ -21,6 +21,7 @@ bogos binted - Carsick- on PlanetMinecraft (https://www.planetminecraft.com/text
 Adios Loading Screen - FeralWyvern on PlanetMinecraft (https://www.planetminecraft.com/texture-pack/adios-loading-screen/)<br>
 Cat Loaf - Fractured Polygon on PlanetMinecraft (https://www.planetminecraft.com/texture-pack/cat-loaf/)<br>
 The Great Eating Utensil (Fork) - Fractured Polygon on PlanetMinecraft (https://www.planetminecraft.com/texture-pack/the-great-eating-utensil-trident-gt-fork/)<br>
+Star Plush - MeriMeri (<3)<br>
 <br>
 Most Text Changes - StarUndrscre (me)<br>
 Comically Large Tools Names - PeakedComedy on PlanetMinecraft.com<br>
